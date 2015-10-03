@@ -21,3 +21,5 @@ def keep_ints(n):
 			i+=1
 	return inner
 	
+def haha():
+	print('hehe')
